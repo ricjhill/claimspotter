@@ -131,6 +131,6 @@ websockets==8.1
 Werkzeug==1.0.1
 wolframalpha==4.0.0
 wrapt==1.12.1
-xmltodict==0.12.0
+xmltodict==0.15.0
 yarg==0.1.9
 zipp==3.1.0
